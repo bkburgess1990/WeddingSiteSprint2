@@ -1,0 +1,74 @@
+
+
+/*structural styles */
+body{
+    font-family: "Times New Roman", serif;
+    margin: 0 50px 0 50px;
+
+}
+
+#reserve {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/*header styles*/
+#theLogo{
+    width: 200px;
+    height: 95px;
+    text-align: center;
+}
+
+
+header {
+    text-align: center;
+}
+
+/*text styles*/
+h1 {
+    text-align: center;
+    color: #d6b6ae;
+}
+
+
+h2{
+    padding-bottom: 40px;
+    color: #d6b6ae;
+    text-align: center;
+
+}
+
+h3{
+    color: #bdbdbd;
+    letter-spacing: 5px;
+}
+
+em {
+    font-weight: bold;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: "Times New Roman", serif;
+}
+
+
+/*button styles*/
+
+#button {
+    display: block;
+    float: right;
+}
+
+input[type = text] {
+    width: 100%;
+    height: 30px;
+}
+input[type = date] {
+    width: 100%;
+}
